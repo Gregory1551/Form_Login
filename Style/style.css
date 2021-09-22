@@ -36,3 +36,12 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.login_input {
+    height: 48px;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 8px;
+    border: unset;
+    outline: none;
+}
