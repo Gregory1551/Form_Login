@@ -58,7 +58,7 @@ body {
     height: 48px;
     width: 100%;
     outline: none;
-    background: radial-gradient( #00C2C8, #ffff);
+    background: radial-gradient( #00C2C8, rgb(245, 245, 245));
     background-size: 100%;
     margin-bottom: 32px;
     color: #ffff;
@@ -69,3 +69,7 @@ body {
     cursor: pointer;
 }
 
+.login_reset {
+    font-size: 14px;
+    text-decoration: none;
+}
